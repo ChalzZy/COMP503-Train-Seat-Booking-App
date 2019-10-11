@@ -3,7 +3,7 @@
  * This method has all the attributes you'd expect a seat to have.
  * It includes attributes such as the type of seat, the seat position and checks if it's reserved.
  * 
- * @author Charles 18012390
+ * @author Charles
  * @version 1.0
  */
 package trainSeatBookingApp;
