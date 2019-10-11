@@ -2,7 +2,7 @@
  * TrainWay is a child class of TrainOperator
  * TrainWay checks seats and reserved first and economy class seats.
  * 
- * @author Charles 18012390
+ * @author Charles
  * @version 1.0
  */
 package trainSeatBookingApp;
