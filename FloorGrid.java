@@ -2,7 +2,7 @@
  * This method allows enables the program to get the seat to the left or right of the chosen seat.
  * This method also enables the program to find the last seat position.
  * 
- * @author Charles 18012390
+ * @author Charles
  * @version 1.0
  */
 package trainSeatBookingApp;
