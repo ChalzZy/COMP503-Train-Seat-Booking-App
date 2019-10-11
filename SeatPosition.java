@@ -1,7 +1,7 @@
 /**
  * This method returns the row and column of a seat.
  * 
- * @author Charles 18012390
+ * @author Charles
  * @version 1.0
  */
 package trainSeatBookingApp;
