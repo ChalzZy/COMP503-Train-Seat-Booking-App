@@ -1,7 +1,7 @@
 /**
  * Class for the train operator
  * 
- * @author Charles 18012390
+ * @author Charles
  * @version 1.0
  */
 package trainSeatBookingApp;
