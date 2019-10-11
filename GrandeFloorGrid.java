@@ -1,7 +1,7 @@
 /**
  * Initialises the floor grid. Sets the number of rows, columns and first class rows.
  * 
- * @author Charles 18012390
+ * @author Charles
  * @version 1.0
  */
 package trainSeatBookingApp;
