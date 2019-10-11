@@ -2,7 +2,7 @@
  * Returns all the attributes that a train journey would have.
  * Includes things such as source city, destination city and departure time.
  * 
- * @author Charles 18012390
+ * @author Charles
  * @version 1.0
  */
 package trainSeatBookingApp;
