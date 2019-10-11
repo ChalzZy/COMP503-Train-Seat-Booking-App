@@ -2,7 +2,7 @@
  * This is the main method.
  * Creates 4 journeys and 2 train operators and books seats depending on user input.
  * 
- * @author Charles 18012390
+ * @author Charles
  * @version 1.0
  */
 package trainSeatBookingApp;
